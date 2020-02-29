@@ -29,7 +29,7 @@ When you open an issue, you can copy & paste the following checklist into the de
 - [ ] replace copyright with "Copyright (c) Combine Community" in code
 - [ ] replace copyright in README
 - [ ] replace copyright in LICENSE
-- [ ] Add `cocoapods@combine.community` as an owner of your project's CocoaPod by using `pod trunk add-owner YourPodName cocoapods@combine.comomunity`.
+- [ ] Add `cocoapods@combine.community` as an owner of your project's CocoaPod by using `pod trunk add-owner YourPodName cocoapods@combine.community`.
 - [ ] update the remote URL of the Podspec (if any)
 - [ ] update CI badge
 - [ ] update CI settings
